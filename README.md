@@ -10,6 +10,8 @@ The **Simple To-Do** project is a smart contract-based to-do list app built in M
 
 ## 🚀 Bootcamp Takeaway
 During the **ICP Educate Series Bootcamp** by RiseIn, I gained hands-on experience with **Motoko**, the programming language for smart contracts on the Internet Computer (ICP). It helped me understand how to create efficient decentralized applications like this to-do list project.
+![image](https://github.com/user-attachments/assets/0724886d-dc10-4bc6-9756-0963ba56e29e)
+
 
 
 ## ⚙️ Installation Prerequisites
